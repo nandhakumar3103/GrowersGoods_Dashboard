@@ -1,0 +1,17 @@
+.home{
+    color: white;
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.section_top{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.section_chart{
+    display: flex;
+}

@@ -1,0 +1,23 @@
+#chart{
+    width: 95%;
+    height: 82%;
+}
+.chart_area{
+    width: 64%;
+    background-color: #191D23;
+    border-radius: 10px;
+}
+.chart_head{
+    padding-left: 20px;
+}
+#stocks{
+    width: 34%;
+    background-color: #191D23;
+    height: 100%;
+    border-radius: 10px;
+}
+.area_charts{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

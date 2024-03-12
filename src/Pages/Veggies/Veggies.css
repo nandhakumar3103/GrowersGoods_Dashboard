@@ -1,0 +1,41 @@
+.veggies{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    text-align: center;
+}
+#products {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    border:  1px solid white;
+    border-radius: 10px;
+}
+
+#products td,
+#products th {
+    padding: 8px;
+    text-align: left;
+}
+
+
+#products th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #191D23;
+    color: white;
+    border-right: 1px solid #4d51574d ;
+}
+#products tr:nth-child(even){
+    background-color: #191D23;
+}
+#products th:last-child{
+    border: none;
+}
+.btn_edit{
+background-color: skyblue;
+}
+.btn_delete {
+background-color: red;
+}

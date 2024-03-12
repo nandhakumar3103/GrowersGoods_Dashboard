@@ -1,0 +1,26 @@
+.table{
+    position: relative;
+}
+
+.products_edit_btn{
+    padding: 4px 16px;
+    border-radius: 10px 0px 10px 0px;
+    background-color: skyblue;
+    outline: none;
+    border: none;
+}
+.products_delete_btn{
+    padding: 4px 16px;
+    border-radius: 10px 0px 10px 0px;
+    background-color: #c21818;
+    outline: none;
+    border: none;
+}
+.products_edit_btn:hover{
+    color: black;
+    background-color: white;
+}
+.products_delete_btn:hover{
+    color: #c21818;
+    background-color: white;
+}

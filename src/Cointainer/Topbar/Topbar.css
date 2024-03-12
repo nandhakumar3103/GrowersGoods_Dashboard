@@ -1,0 +1,34 @@
+.top_bar {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 95%;
+}
+.search_bar {
+  width: 22%;
+  height: 52%;
+  background-color: #262c36;
+}
+.notification {
+  height: 52%;
+  width: 8%;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  color: #fcfafa8a;
+}
+.profile{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #262c36;
+}
+.search_bar{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: #fcfafa8a;
+    border-radius: 10px;
+    justify-content: flex-start;
+}

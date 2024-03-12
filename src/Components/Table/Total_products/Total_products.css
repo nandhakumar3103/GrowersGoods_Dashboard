@@ -1,0 +1,35 @@
+td{
+    font-size: 15px;
+}
+th{
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.btn_approve{
+    padding: 8px 13px;
+    border-radius: 10px 0px 10px 0px ;
+    background-color: #02a75fe8;
+    border: none;
+}
+.btn_approve:hover{
+    background-color: white;
+    color: black;
+    border-radius: 0px 10px 0px 10px;
+}
+.btn_reject{
+    padding: 8px 13px;
+    border-radius: 10px 0px 10px 0px;
+    background-color: #fb0000c2;
+    border: none;
+}
+.btn_reject:hover{
+    background-color: white;
+    color: #fb0000c2;
+    border-radius: 0px 10px 0px 10px;
+}
+.accept> input{
+    width: 50px;
+    background-color:#262c36 ;
+    outline: none;
+    border: none;
+}
