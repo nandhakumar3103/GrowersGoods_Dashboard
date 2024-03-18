@@ -24,3 +24,7 @@
     color: #c21818;
     background-color: white;
 }
+
+.products_edit_btn > a{
+    text-decoration: none;
+}

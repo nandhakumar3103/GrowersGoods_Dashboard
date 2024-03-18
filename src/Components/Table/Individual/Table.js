@@ -60,7 +60,7 @@ const Table = ({ data, get_alldata }) => {
                       handleClick(rowdata);
                     }}
                   >
-                    Edit
+                    <a href="#root">Edit</a>
                   </button>
                 </td>
                 <td>
